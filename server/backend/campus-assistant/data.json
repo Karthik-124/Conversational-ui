@@ -1,0 +1,72 @@
+{
+  "campus_name": "IIIT Sri City",
+  "locations": [
+    {
+      "lat": 13.557171699811969,
+      "lng": 80.02508759445828,
+      "label": "BH1",
+      "loctype": "boys_hostel",
+      "facilities": ["WiFi", "Mess"]
+    },
+    {
+      "lat": 13.556814503967724,
+      "lng": 80.02514831719485,
+      "label": "BH2",
+      "loctype": "boys_hostel",
+      "facilities": ["WiFi", "Mess"]
+    },
+    {
+      "lat": 13.553073313786285,
+      "lng": 80.0260754373295,
+      "label": "BH3",
+      "loctype": "boys_hostel",
+      "facilities": ["WiFi", "Mess"]
+    },
+    {
+      "lat": 13.552739551223357,
+      "lng": 80.02556045321491,
+      "label": "BH4",
+      "loctype": "boys_hostel",
+      "facilities": ["WiFi", "Mess"]
+    },
+    {
+      "lat": 13.561533450222644, 
+      "lng": 80.02277999553723,
+      "label": "Girls Hostel",
+      "loctype": "girls_hostel",
+      "facilities": ["WiFi", "Mess"]
+    },
+    {
+      "lat": 13.553584386802479,
+      "lng": 80.02668698096555,
+      "label": "Football Ground",
+      "loctype": "sports"
+    },
+    {
+      "lat": 13.555553050623267,
+      "lng": 80.02645362873494,
+      "label": "Academic Block",
+      "loctype": "academic",
+      "departments": ["CSE", "ECE", "AIDS"]
+    },
+    {
+      "lat":13.556304606616179, 
+      "lng":80.02634209569179,
+      "label": "Cafeteria",
+      "loctype":"food",
+      "timings":"10AM-11PM"
+
+    }
+  ],
+  "statistics": {
+    "total_hostels": 5,
+    "boys_hostels": 4,
+    "girls_hostels": 1,
+    "total_students_in_hostels": 950,
+    "bh1_capacity": 650,
+    "bh2_capacity": 180,
+    "bh3_capacity": 200,
+    "bh4_capacity": 170,
+    "girls_hostel_capacity": 250
+  }
+}

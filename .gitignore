@@ -1,0 +1,22 @@
+# Python
+**/__pycache__/
+**/.venv/
+**/venv/
+
+# Node
+server/frontend/node/node_modules/
+server/frontend/node_modules/
+
+# Legalos generated data
+server/backend/legalos/factsDB/
+server/backend/legalos/vectorDB/
+server/backend/legalos/rag_runs.jsonl
+
+
+.vscode/
+lambda_build
+
+# for recharts
+package-lock.json
+package.json
+node_modules/
